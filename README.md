@@ -11,7 +11,7 @@
 
 **`Front-end Developer`**
 
-Just a guy who shoots videos and makes cool code in college and a Portal fan.
+Just a Portal fan who makes cool codes in college.
 
 
 ## Languages I use
