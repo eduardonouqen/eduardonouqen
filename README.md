@@ -32,8 +32,8 @@ Just a Portal fan who makes cool codes in college.
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://github.com/eduardonouqen">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eduardonouqen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eduardonouqen&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eduardonouqen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eduardonouqen&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
