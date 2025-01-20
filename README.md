@@ -11,7 +11,7 @@
 
 **`Front-end Developer`**
 
-Just a Portal fan who makes cool codes in college.
+I love design and web development.
 
 
 ## Technologies I use
