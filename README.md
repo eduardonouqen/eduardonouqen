@@ -26,23 +26,23 @@ I love design and web development.
 
 ## Socials
 
-<p align="left" style="display: flex; gap: 10px;"> 
-	<a href="https://discord.com/users/Nouqen#3318" target="_blank" rel="noreferrer">
+<p align="left"> 
+	<a href="https://discord.com/users/Nouqen#3318" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/>
 	</a> 
-	<a href="https://www.facebook.com/eduardo.defrancagonzales" target="_blank" rel="noreferrer" >
+	<a href="https://www.facebook.com/eduardo.defrancagonzales" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32"/>
 	</a> 
-	<a href="https://www.github.com/eduardonouqen" target="_blank" rel="noreferrer">
+	<a href="https://www.github.com/eduardonouqen" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/>
 	</a>
-	<a href="http://www.instagram.com/_franca.eduardo" target="_blank" rel="noreferrer" >
+	<a href="http://www.instagram.com/_franca.eduardo" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/>
 	</a>
-	<a href="https://www.linkedin.com/in/eduardo-de-frança-gonzalez" target="_blank" rel="noreferrer">
+	<a href="https://www.linkedin.com/in/eduardo-de-frança-gonzalez" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/>
 	</a> 
-	<a href="https://www.youtube.com/c/Nouqen" target="_blank" rel="noreferrer">
+	<a href="https://www.youtube.com/c/Nouqen" target="_blank" rel="noreferrer" style="display:inline-block; margin-right:10px;">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32"/>
 	</a>
 </p>
