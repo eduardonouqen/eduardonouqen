@@ -27,7 +27,7 @@ I love design and web development.
 ## Socials
 
 <p align="left"> 
-	<a href="https://discord.com/users/Nouqen#3318" target="_blank" rel="noreferrer">
+	<a href="https://discord.com/users/Nouqen#3318" target="_blank" rel="noreferrer" style="text-decoration:none;">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="30"/>
 	</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.facebook.com/eduardo.defrancagonzales" target="_blank" rel="noreferrer">
