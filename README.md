@@ -30,10 +30,10 @@ I love design and web development.
 	<a style="padding-right:10px;" href="https://discord.com/users/Nouqen#3318" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/>
 	</a> 
-	<a href="https://www.facebook.com/eduardo.defrancagonzales" target="_blank" rel="noreferrer" >
+	<a style="padding-right:10px;" href="https://www.facebook.com/eduardo.defrancagonzales" target="_blank" rel="noreferrer" >
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32"/>
 	</a> 
-	<a href="https://www.github.com/eduardonouqen" target="_blank" rel="noreferrer">
+	<a style="padding-right:10px;" href="https://www.github.com/eduardonouqen" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/>
 	</a>
 	<a href="http://www.instagram.com/_franca.eduardo" target="_blank" rel="noreferrer" >
